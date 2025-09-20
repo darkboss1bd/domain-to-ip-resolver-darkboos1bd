@@ -16,7 +16,7 @@ CN='\033[1;38;5;247m'
 CNC='\033[1;38;5;051m'
 
 echo -e ${RED}    "###############################################################"
-echo -e ${ORANGE} " #     DOMAIN'S TO IP RESOLVERS & NMAP NSE SCRIPT SCAN         #  "
+echo -e ${ORANGE} " #                  DOMAIN TO IP RESOLVERS & NMAP SCAN         #  "
 echo -e ${PINK}   " #                                                             #  "
 echo -e ${BLUE}   " #                   DARKBOSS1BD PRESENTS                      #  "
 echo -e ${YELLOW} " #             Coded By: darkboss1bd                           #  "
